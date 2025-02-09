@@ -72,11 +72,11 @@ const Hero = () => {
       <div className="relative bg-gradient-to-b from-[#dcebfe] to-yellow-100 bg-opacity-50 p-6 rounded-lg shadow-md">
         <div className="relative z-10 text-center mb-12 text-black">
           <h1 className="text-5xl font-extrabold hero-title mb-4 ">
-            Discover Your Perfect Trip with Globe Guru
+            Discover Your Perfect Trip Here!
           </h1>
           <p className="text-xl hero-description mb-3 font-semibold">
-            Globe Guru is your ultimate AI-powered travel companion. Tell us
-            your travel preferences, and we'll craft the perfect itinerary just
+            Welcome to your ultimate AI-powered travel companion. Tell us
+            your travel preferences, and we'll craft the perfect itinerary
             for you.
           </p>
           <p className="text-xl hero-description mb-8 font-semibold">

@@ -49,7 +49,7 @@ const Header = () => {
   return (
     <header className="flex justify-between items-center px-8 py-4 shadow-md bg-white">
       <div>
-        <img className="w-24 h-auto" src="/logo.png" alt="Logo" />
+        <img className="w-24 h-auto" src='logo.png' alt="Logo" />
       </div>
       {user ? (
         <div className="flex items-cetner gap-x-3">

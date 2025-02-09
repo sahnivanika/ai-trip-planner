@@ -1,3 +1,4 @@
+/*
 import React from "react";
 import HotelCardItem from "./HotelCardItem";
 import Slider from "react-slick";
@@ -44,9 +45,11 @@ const Hotels = ({ trip }) => {
             </div>
           ))}
         </Slider>
+        
       </div>
     </div>
   );
 };
 
 export default Hotels;
+*/

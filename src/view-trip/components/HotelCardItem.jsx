@@ -1,3 +1,4 @@
+/*
 import { PHOTO_REF_URL } from "@/constants/options";
 import { GetPlaceDetails } from "@/service/GlobalApi";
 import React, { useEffect, useState } from "react";
@@ -47,7 +48,10 @@ const HotelCardItem = ({ h }) => {
         </div>
       </Link>
     </div>
+    
   );
 };
+console.log("Google API Key:", import.meta.env.VITE_GOOGLE_PLACE_API_KEY);
 
 export default HotelCardItem;
+*/
